@@ -45,42 +45,42 @@ weight = 7
 name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
-[Languages.fr]
+[Languages.es]
 contentDir = "content/spanish"
 copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [N30j0su3](https://n30j0su3.netlify.app/)"
 home = "Bienvenido"
 languageCode = "es-es"
 languageName = "Es"
 weight = 2
-[[Languages.fr.menu.main]]
-name = "sur"
+[[Languages.es.menu.main]]
+name = "Sobre nosotros"
 url = "#about"
 weight = 1
-[[Languages.fr.menu.main]]
-name = "un service"
+[[Languages.es.menu.main]]
+name = "Servicios"
 url = "#services"
 weight = 2
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+[[Languages.es.menu.main]]
+name = "portafolio"
 url = "#portfolio"
 weight = 3
-[[Languages.fr.menu.main]]
-name = "équipe"
+[[Languages.es.menu.main]]
+name = "equipo"
 url = "#team"
 weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
+[[Languages.es.menu.main]]
+name = "precios"
 url = "#pricing"
 weight = 5
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
-[[Languages.fr.menu.main]]
-name = "contact"
+[[Languages.es.menu.main]]
+name = "contacto"
 url = "#contact"
 weight = 7
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
