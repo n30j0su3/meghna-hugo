@@ -61,29 +61,25 @@ name = "Servicios"
 url = "#services"
 weight = 2
 [[Languages.es.menu.main]]
-name = "portafolio"
+name = "Portafolio"
 url = "#portfolio"
 weight = 3
 [[Languages.es.menu.main]]
-name = "equipo"
+name = "Equipo"
 url = "#team"
 weight = 4
 [[Languages.es.menu.main]]
-name = "precios"
+name = "Precios"
 url = "#pricing"
 weight = 5
 [[Languages.es.menu.main]]
-name = "blog"
+name = "Blog"
 url = "#blog"
 weight = 6
 [[Languages.es.menu.main]]
-name = "contacto"
+name = "Contacto"
 url = "#contact"
 weight = 7
-[[Languages.es.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
